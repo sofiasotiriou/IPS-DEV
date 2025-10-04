@@ -23,7 +23,7 @@ make
 ```{shell}
 bin/main
 ```
-The execution produces a CSV file containing the values to display in  _ressources/tab.csv_. Then, the file _src/plot.py_ is executed and displays the curves that correspond to the data/ 
+The execution produces a CSV file containing the values to display in  _ressources/tab.csv_. Then, the file _src/plot.py_ is executed and displays the curves that correspond to the data. 
 
 
 ## Delete temporary elements
