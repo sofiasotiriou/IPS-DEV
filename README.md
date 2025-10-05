@@ -3,7 +3,7 @@
 
 ## Project description 
 
-This project calculates the solution of the 1D quantum harmonic oscillator and checks some of their properties. More specifically: 
+This project calculates the solutions of the 1D quantum harmonic oscillator and checks some of their properties. More specifically: 
 - The solutions of the 1D-HO are calculated along the z-axis, using the recurrence relation H(n+1)(z) = 2zH(n)(z) - 2nH(n-1)(z).
 - The first solutions are evaluated and plotted using matplotlib.
 - The energy E(n) of the first solutions is numerically checked by estimating the derivatives.
